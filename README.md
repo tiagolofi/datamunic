@@ -1,16 +1,16 @@
 # API para dados da Pesquisa dos Municípios
 
-1. Selecionando um município
+### 1. Selecionando um município
 
-* Alguns municípios: 
+**Alguns municípios:** 
 
 - São Luís: 2111300
 - São Paulo: 3550308
 - Rio de Janeiro: 3304557
 
-2. Selecionando uma pesquisa
+### 2. Selecionando uma pesquisa
 
-* Nomes das pesquisas:
+**Nomes das pesquisas:**
 
 - Recursos humanos
 - Habitação
@@ -20,7 +20,7 @@
 - Gestão de riscos
 - COVID-19
 
-3. Um simples programa
+### 3. Um simples programa
 
 ```python
 
@@ -38,7 +38,7 @@ while True:
 
 ```
 
-4. A fazer
+### 4. A fazer
 
 - Link entre pergunta e resposta
 - API Rest
